@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","NOBI7A")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NOBITAMUSIXBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@fakesoul13")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "NOBITA")
 # ---------------------------------------------------------
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/About_Nobi")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/About_Nobi")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/moonsupportgroup")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/moonsupportgroup")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
